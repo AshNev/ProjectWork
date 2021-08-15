@@ -1,17 +1,20 @@
 # TITLE
-
+Haven Protocol (XHV)
 ## Overview and Origin
 
 * Name of company
-
+Haven Protocol
 * When was the company incorporated?
-
+Haven was conceived in Jan 2018.
 * Who are the founders of the company?
-
+The company was founded by two anonymous developers. After the two developers reaching to many obstales that they could not overcome
+the project was abandoned. Eventually it was picked up again by members of the Haven community, the 'new founders' are know in the 
+community as Dweab, Neac, Pierre Lafitte, and Marty. 
 * How did the idea for the company (or project) come about?
-
+Two developers were attempting to create something that many people considered impossible. The idea was for a private coin that 
+anyone could use anywhere with no 3rd parties, with the ability to convert between currencies in your own digital vault. 
 * How is the company funded? How much funding have they received?
-
+The company was funded from the original developers taking a pre-mine of approximately 90k XHV
 
 ## Business Activities:
 
@@ -26,7 +29,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-
+Blockchain and Cryptocurrency
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
@@ -37,7 +40,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+A core metric that crypto currencies use to measure success is market cap. As of 15/08/2021 measuring by market cap Haven is ranked 429 out of 11,257* 
+cryptocurrencies that are monitored on CoinMarketCap. It is a noticeable achievement to be ranked in the top 500 coins, it is also worth mentioning
+that haven was ranked in the top 200.
 * How is your company performing relative to competitors in the same domain?
 
 
